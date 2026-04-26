@@ -160,21 +160,20 @@ Future improvements could include:
 
 # Repository Structure
 
+```text
 ACC102-AI-Valuation-Analysis/
-│
 ├── README.md
-├── ACC102_Track2_AI Company_Valuation_Analysis.ipynb
+├── ACC102_Track2_AI_Company_Valuation_Analysis.ipynb
 ├── requirements.txt
-│
 ├── data/
 │   ├── clean_ai_stock_prices.csv
 │   └── final_risk_return_summary.csv
-│
 └── figures/
     ├── price_trend.png
     ├── annual_return_comparison.png
     ├── risk_return.png
     └── normalised_price_index.png
+```
 
 ---
 
