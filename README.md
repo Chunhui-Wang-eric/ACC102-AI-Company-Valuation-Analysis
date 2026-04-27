@@ -1,6 +1,17 @@
 # ACC102_Track2_AI Company_Valuation_Analysis
+
 A Python-based financial data analysis project comparing risk and return of public AI-related companies.
-# What Drives AI Company Valuation? A Data-Based Comparison
+
+# Project Title
+
+What Drives AI Company Valuation? A Data-Based Comparison
+
+# Author
+
+Created for ACC102 Mini Assignment, Xi’an Jiaotong-Liverpool University.
+
+Student name: Chunhui Wang  
+Student ID: 2472677
 
 ## 1. Problem & User
 
