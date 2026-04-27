@@ -133,15 +133,10 @@ The notebook will:
 
 ---
 
-## 6. Product Link / Demo
+## 6. Product Link
 
 ### GitHub Repository：
 https://github.com/Chunhui-Wang-eric/ACC102_Track2_AI-Company_Valuation_Analysis
-
-### Demo Video：
-
-
-The demo video explains the project problem, dataset, Python workflow, key outputs, and main findings.
 
 ---
 
