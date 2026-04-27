@@ -1,0 +1,5 @@
+,Annual Return,Annual Risk,Return Rank,Risk Rank,Total Score,Interpretation
+NVDA,0.652247101599847,0.5527097291258103,1.0,4.0,5.0,"High return, high risk"
+META,0.30554163470768164,0.4872221488681739,2.0,3.0,5.0,"Lower return, high risk"
+GOOGL,0.14414374464740556,0.3274406148301427,3.0,2.0,5.0,"Lower return, relatively stable"
+MSFT,0.12379062624419183,0.2757659873336312,4.0,1.0,5.0,"Lower return, relatively stable"
